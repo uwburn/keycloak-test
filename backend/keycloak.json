@@ -1,0 +1,8 @@
+{
+  "realm": "test",
+  "bearer-only": true,
+  "auth-server-url": "http://localhost:7070/auth/",
+  "ssl-required": "external",
+  "resource": "backend",
+  "confidential-port": 0
+}
